@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##
+Hello, I'm Enrique Arreola. I am an aspiring Data Analyst who is eager to learn as much as I can and land in a career I love. This will be a space to track my learning and projects. If you stumble along this profile, please look over my work and suggest anything! I am always looking to improve my skills!
 <!--
 **Enrique-Arreola/Enrique-Arreola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
